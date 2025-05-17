@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "showLineNumber": true,
+  "newFileLocation": "current",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 10
+  },
+  "spellcheck": false
+}

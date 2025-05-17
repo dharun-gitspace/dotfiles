@@ -1,0 +1,1 @@
+refer this link to learn about the javascript scopes https://www.contentful.com/blog/the-global-object-in-javascript/

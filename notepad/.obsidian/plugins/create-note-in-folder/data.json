@@ -1,0 +1,28 @@
+{
+  "folder": [
+    {
+      "path": "{{current}}",
+      "commandName": "Create new file in the current folder",
+      "template": {
+        "type": "none",
+        "format": "",
+        "position": "append",
+        "separator": "",
+        "increment": true
+      },
+      "fileName": "Untitled",
+      "opening": "newTab",
+      "focused": true,
+      "splitDefault": "horizontal",
+      "alreadyExistOpening": {
+        "opening": "newTab",
+        "splitDefault": "horizontal",
+        "focused": true
+      },
+      "fileMenu": false
+    }
+  ],
+  "customVariables": [],
+  "timeOutForInlineTitle": 50,
+  "enableAllFolder": true
+}

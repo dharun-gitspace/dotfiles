@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "34c56bdcfc9b6360",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1d33e33019f6c24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33e788333274cb31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Code"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1cb508aa9e651b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c99224fb8d826ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "897d56e5f53ccd33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b78f534d1abc0c0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c9092822af652973",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "232a72a3cfd07b34",
+    "type": "split",
+    "children": [
+      {
+        "id": "8404222990768e88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc8fac5a200e9eb9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sample/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "81b746ba0de24607",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SOA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SOA"
+            }
+          },
+          {
+            "id": "07d96ae3708213d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e4fe98c4c08909c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "33e788333274cb31",
+  "lastOpenFiles": [
+    "Code.docx",
+    "Code.pdf",
+    "Pasted image 20250502001409.png",
+    "02-05-2025.md",
+    "Code.md",
+    "Indian_Railway_Accidents_Analysis_IEEE_Paper.md",
+    "Indian_Railway_Accidents_Analysis_IEEE_Paper.docx",
+    "Indian_Railway_Accidents_Analysis_IEEE_Paper.pdf",
+    "14-04-2025.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "17-04-2025.md",
+    "others/Data Mining assingment submission date 25.03.2027 next tuesday.md",
+    "14-04-2025.pdf",
+    "23-04-2025.md",
+    "21-04-2025.md",
+    "21-04-2025.pdf",
+    "EX_17.docx",
+    "21-04-2025.docx",
+    "Spring Boot/Spring fundamentals.md",
+    "Spring Boot/Spring boot servlet.md",
+    "Spring Boot/Spring securtiy disable.md",
+    "node/Introduction.md",
+    "node/javascript/JS scopes.md",
+    "node/javascript/DOM.md",
+    "JS/declaring variables in js.md",
+    "JS/Hoisting.md",
+    "13-04-2025.md",
+    "11-04-2025.md",
+    "Bash/Shortcuts shell script.md",
+    "Bash/ZRAM.md",
+    "Untitled",
+    "JS",
+    "node/javascript/Untitled.md",
+    "node/Untitled",
+    "09-04-2025.md",
+    "Java learning/Untitled.md",
+    "Java/Pasted image 20250211105523.png",
+    "Java/Pasted image 20250211101621.png",
+    "classwork/usecase diagram.png",
+    "Java/Pasted image 20250103223920.png",
+    "Java/Pasted image 20250103223854.png",
+    "Pasted image 20250104005249.png",
+    "Pasted image 20250104005036.png",
+    "Pasted image 20250103221117.png",
+    "Pasted image 20250103220317.png",
+    "Untitled.canvas"
+  ]
+}
